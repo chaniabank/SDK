@@ -1,2 +1,3 @@
 # Chania Bank PSD2 API SDK
-please visit developer.chaniabank.gr for more information
+You need a valid subscription in order to use the API.
+Please visit developer.chaniabank.gr for more information
